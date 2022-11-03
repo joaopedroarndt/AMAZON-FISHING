@@ -1,0 +1,35 @@
+body {  
+  text-align: center;
+  background: rgba(5, 111, 93, 0.918);
+} 
+
+#banner {
+   widht: 35%;
+}
+#banner
+     widht: center;
+h1{
+  text-align: center;
+  height: 150px;
+  border: 10px sold #00000
+  pading-top: 20px;
+  margin-left: 15px
+  :;
+}
+
+.itens  {
+  font-size: 25px;
+  font-style: italic;
+  color:rgb(0, 0, 0)
+  }
+
+.imagembeneficios{
+  width: 32%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align:top;
+    width: 19%;
+    margin-right: 15%
+}
